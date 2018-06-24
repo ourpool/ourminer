@@ -3,6 +3,7 @@
 Dear Miners,
 
 We are extremely pleased to announce the launch of our new miner called OurMiner, it’s the fork of ccminer developped by OurPool.net team.
+
 We worked hard on OurMiner to improve the following algos : Lyra2z, X16r and X16s
 
 Please find below the performances for each algo :
