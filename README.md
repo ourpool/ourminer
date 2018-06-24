@@ -16,3 +16,8 @@ OurMiner 1.0.0 :
 - Compiled with MVS 2015
 - Built with a new version of curl for fast transferring data to increase shares
 - The kernel is improved for each Algo and currently we support following Algos : X16r, X16s and Lyra2Z
+
+Contact us:
+------------------------------
+Website: https://ourpool.net
+Discord: https://discord.gg/FxqSTns
