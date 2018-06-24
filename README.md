@@ -20,4 +20,5 @@ OurMiner 1.0.0 :
 Contact us:
 ------------------------------
 Website: https://ourpool.net
+
 Discord: https://discord.gg/FxqSTns
